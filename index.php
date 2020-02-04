@@ -18,7 +18,7 @@
     <div class="container" id='posiciones'>
        
         <div class="alert alert-success" role="alert">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="img/profiles/musk.jpg" class=" rounded float-left"    width="100" height="100">
             <label class="col-md-4 control-label">Nombre xx</label>
             <p></p>
           </div>
@@ -43,8 +43,8 @@
     </div>
     
     <div class="container" id='opciones'>
-        <button type="button" class="btn btn-info">Cargar puntos</button>
-        <button type="button" class="btn btn-success">Hall of Fame</button>
+        <button type="button" class="btn btn-success">HALL OF FAME</button>
+        <a type="button" class="btn btn-info" href='formulario_puntos.php'>CARGAR PUNTOS</a>
     </div>
 </body>
 </html>
